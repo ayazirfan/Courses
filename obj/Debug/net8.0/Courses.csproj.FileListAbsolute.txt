@@ -1,0 +1,14 @@
+c:\Users\HP\Desktop\EnginDemirog\Courses\bin\Debug\net8.0\Courses.exe
+c:\Users\HP\Desktop\EnginDemirog\Courses\bin\Debug\net8.0\Courses.deps.json
+c:\Users\HP\Desktop\EnginDemirog\Courses\bin\Debug\net8.0\Courses.runtimeconfig.json
+c:\Users\HP\Desktop\EnginDemirog\Courses\bin\Debug\net8.0\Courses.dll
+c:\Users\HP\Desktop\EnginDemirog\Courses\bin\Debug\net8.0\Courses.pdb
+c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\Courses.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\Courses.AssemblyInfoInputs.cache
+c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\Courses.AssemblyInfo.cs
+c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\Courses.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\Courses.dll
+c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\refint\Courses.dll
+c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\Courses.pdb
+c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\Courses.genruntimeconfig.cache
+c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\ref\Courses.dll
