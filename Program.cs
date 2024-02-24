@@ -1,8 +1,8 @@
 ﻿using courses;
 
-CourseManager courseManager = new CourseManager();
-Course [] courses1 = courseManager.GetAll();
-for (int i = 0; i < courses1.Length; i++)
+CourseManager courseManager = new (new EfCourseDal());
+List <Course> courses1 = courseManager.GetAll();
+for (int i = 0; i < courses1.Count; i++)
 {
     System.Console.WriteLine(courses1[i].Name + "/" + courses1[i].Description);
 }

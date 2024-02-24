@@ -12,3 +12,4 @@ c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\refint\Courses.dll
 c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\Courses.pdb
 c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\Courses.genruntimeconfig.cache
 c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\ref\Courses.dll
+c:\Users\HP\Desktop\EnginDemirog\Courses\obj\Debug\net8.0\Courses.sourcelink.json
