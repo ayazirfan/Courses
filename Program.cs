@@ -34,7 +34,13 @@ customer4.Name = "Abfjsh";
 customer4.CustomerNumber = "93657";
 customer4.TaxNumber = "9939204982";
 
-BaseCustomer [] customers = {customer1, customer2, customer3, customer4};
+CorporateCustomer customer5 = new CorporateCustomer();
+customer5.Id = 5;
+customer5.Name = "Makara";
+customer5.CustomerNumber = "29384";
+customer5.TaxNumber = "78847563";
+
+BaseCustomer [] customers = {customer1, customer2, customer3, customer4, customer5};
 foreach (BaseCustomer item in customers)
 {
     System.Console.WriteLine("{0}, {1}, {2}", item.CustomerNumber, item.Id, customer3.TaxNumber);
